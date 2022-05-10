@@ -4,3 +4,21 @@
 
 /TestResults
 /.vscode
+/Api.Productos.Application/bin/Debug/netcoreapp3.1
+/Api.Productos.Application/obj/Debug/netcoreapp3.1
+/Api.Productos.Application/obj
+/Api.Productos.Data/bin/Debug/netcoreapp3.1
+/Api.Productos.Data/obj/Debug/netcoreapp3.1
+/Api.Productos.Data/obj
+/Api.Productos.Domain/bin/Debug/netcoreapp3.1
+/Api.Productos.Domain/obj/Debug/netcoreapp3.1
+/Api.Productos.Domain/obj
+/Api.Productos.Dto/bin/Debug/netcoreapp3.1
+/Api.Productos.Dto/obj/Debug/netcoreapp3.1
+/Api.Productos.Dto/obj
+/Api.Productos.Models/bin/Debug/netcoreapp3.1
+/Api.Productos.Models/obj/Debug/netcoreapp3.1
+/Api.Productos.Models/obj
+/Api.Productos.WebApi/bin/Debug/netcoreapp3.1
+/Api.Productos.WebApi/obj/Debug/netcoreapp3.1
+/Api.Productos.WebApi/obj
