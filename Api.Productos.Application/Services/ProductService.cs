@@ -33,7 +33,9 @@ namespace Api.Productos.Application.Services
                 {
                     Descripcion = producto.Descripcion,
                     Nombre = producto.Nombre,
-                    Valor = Convert.ToInt32(producto.Precio)
+                    Valor = Convert.ToInt32(producto.Precio),
+                    Cantidad = producto.Cantidad,
+                    Image = producto.Img
                 };
 
 
