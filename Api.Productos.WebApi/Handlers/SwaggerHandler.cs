@@ -23,9 +23,9 @@ namespace Api.Productos.WebApi.Handlers
                     Version = SwaggerConfigConst.DocInfoVersion
                 });
 
-                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name.Replace("Framework","WebApi")}.xml";
-                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                sw.IncludeXmlComments(xmlPath);
+                //var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name.Replace("Framework","WebApi")}.xml";
+                //var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                //sw.IncludeXmlComments(xmlPath);
             });
         }
 
